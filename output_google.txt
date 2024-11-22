@@ -1,0 +1,109 @@
+
+N   Language              ISO-639 code Text               
+1   afrikaans             af           Goeie môre         
+2   albanian              sq           Mirmengjesi        
+3   amharic               am           ምልካም እድል           
+4   arabic                ar           صباح الخير         
+5   armenian              hy           Բարի լույս         
+6   azerbaijani           az           Sabahiniz xeyir    
+7   basque                eu           Egun on            
+8   belarusian            be           Добрай раніцы      
+9   bengali               bn           শুভ সকাল           
+10  bosnian               bs           Dobro jutro        
+11  bulgarian             bg           добро утро         
+12  catalan               ca           Bon dia            
+13  cebuano               ceb          Maayong buntag     
+14  chichewa              ny           M'mawa wabwino     
+15  chinese (simplified)  zh-cn        早上好                
+16  chinese (traditional) zh-tw        早安                 
+17  corsican              co           Bonghjornu         
+18  croatian              hr           Dobro jutro        
+19  czech                 cs           Dobré ráno         
+20  danish                da           Godmorgen          
+21  dutch                 nl           Goedemorgen        
+22  english               en           Good morning       
+23  esperanto             eo           Bonan matenon      
+24  estonian              et           Tere hommikust     
+25  filipino              tl           Magandang umaga po 
+26  finnish               fi           Hyvää huomenta     
+27  french                fr           Bonjour            
+28  frisian               fy           Goedei             
+29  galician              gl           Bos días           
+30  georgian              ka           დილა მშვიდობისა    
+31  german                de           Guten Morgen       
+32  greek                 el           Καλημέρα           
+33  gujarati              gu           શુભ સવાર           
+34  haitian creole        ht           Bonjou             
+35  hausa                 ha           Barka da safiya    
+36  hawaiian              haw          Aloha kakahiaka    
+37  hebrew                iw           בוקר טוב           
+38  hebrew                he           בוקר טוב           
+39  hindi                 hi           शुभ प्रभात         
+40  hmong                 hmn          Nyob zoo sawv ntxov
+41  hungarian             hu           Jó reggelt         
+42  icelandic             is           Góðan daginn       
+43  igbo                  ig           Ụtụtụ ọma          
+44  indonesian            id           Selamat pagi       
+45  irish                 ga           Maidin mhaith      
+46  italian               it           Buongiorno         
+47  japanese              ja           おはよう               
+48  javanese              jw           sugeng enjang      
+49  kannada               kn           ಶುಭೋದಯ             
+50  kazakh                kk           Қайырлы таң        
+51  khmer                 km           អរុណសួស្តី         
+52  korean                ko           좋은 아침이에요           
+53  kurdish (kurmanji)    ku           Beyanî baş         
+54  kyrgyz                ky           Кайырдуу таң       
+55  lao                   lo           ສະບາຍດີຕອນເຊົ້າ    
+56  latin                 la           Salve              
+57  latvian               lv           Labrīt             
+58  lithuanian            lt           Labas rytas        
+59  luxembourgish         lb           Gudde Moien        
+60  macedonian            mk           Добро утро         
+61  malagasy              mg           Salama             
+62  malay                 ms           selamat pagi       
+63  malayalam             ml           സുപ്രഭാതം          
+64  maltese               mt           L-għodwa t-tajba   
+65  maori                 mi           Ata pai            
+66  marathi               mr           शुभ सकाळ           
+67  mongolian             mn           Өглөөний мэнд      
+68  myanmar (burmese)     my           မင်္ဂလာနံနက်ခင်းပါ 
+69  nepali                ne           शुभ प्रभात         
+70  norwegian             no           God morgen         
+71  odia                  or           ଶୁଭ ସକାଳ           
+72  pashto                ps           سهار مو پخیر       
+73  persian               fa           صبح بخیر           
+74  polish                pl           Dzień dobry        
+75  portuguese            pt           Bom dia            
+76  punjabi               pa           ਸ਼ੁਭ ਸਵੇਰ          
+77  romanian              ro           Bună dimineaţa     
+78  russian               ru           Доброе утро        
+79  samoan                sm           Manuia le taeao    
+80  scots gaelic          gd           Madainn mhath      
+81  serbian               sr           Добро јутро        
+82  sesotho               st           Khotsong           
+83  shona                 sn           Mangwanani akanaka 
+84  sindhi                sd           صبح جو سلام        
+85  sinhala               si           සුභ උදෑසනක්        
+86  slovak                sk           Dobré ráno         
+87  slovenian             sl           dobro jutro        
+88  somali                so           Subax wanaagsan    
+89  spanish               es           Buen día           
+90  sundanese             su           Wilujeng énjing    
+91  swahili               sw           Habari za asubuhi  
+92  swedish               sv           God morgon         
+93  tajik                 tg           Субҳ ба хайр       
+94  tamil                 ta           காலை வணக்கம்       
+95  telugu                te           శుభోదయం            
+96  thai                  th           สวัสดีตอนเช้า      
+97  turkish               tr           Günaydın           
+98  ukrainian             uk           Доброго ранку      
+99  urdu                  ur           صبح بخیر           
+100 uyghur                ug           خەيرلىك ئەتىگەن!   
+101 uzbek                 uz           Xayrli tong        
+102 vietnamese            vi           Chào buổi sáng  
+103 welsh                 cy           Bore da            
+104 xhosa                 xh           Mholo              
+105 yiddish               yi           גוט מאָרגן         
+106 yoruba                yo           E kaaro            
+107 zulu                  zu           Sawubona           

@@ -1,0 +1,29 @@
+
+N  Language   ISO-639 code Text           
+1  bulgarian  bg           Добро утро     
+2  czech      cs           Dobré ráno     
+3  danish     da           Godmorgen      
+4  german     de           Guten Morgen!  
+5  greek      el           Καλημέρα       
+6  english    en           Good morning   
+7  spanish    es           Buenos días.   
+8  estonian   et           Tere hommikust.
+9  finnish    fi           Hyvää huomenta.
+10 french     fr           Bonjour        
+11 hungarian  hu           Jó reggelt!    
+12 indonesian id           Selamat pagi.  
+13 italian    it           Buongiorno     
+14 japanese   ja           おはよう           
+15 lithuanian lt           Labas rytas    
+16 latvian    lv           Labs rīts      
+17 dutch      nl           Goedemorgen    
+18 polish     pl           Dzień dobry    
+19 portuguese pt           Bom dia        
+20 romanian   ro           Bună dimineața 
+21 russian    ru           Доброе утро.   
+22 slovak     sk           Dobré ráno     
+23 slovenian  sl           Dobro jutro    
+24 swedish    sv           God morgon.    
+25 turkish    tr           Günaydın.      
+26 ukrainian  uk           Доброго ранку  
+27 chinese    zh           早上好            
